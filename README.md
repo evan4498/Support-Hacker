@@ -1,4 +1,4 @@
 Support-Hacker
 ==============
 
-Support Hacker logos
+Rackspace Fanatical Support [RH]acker logos
